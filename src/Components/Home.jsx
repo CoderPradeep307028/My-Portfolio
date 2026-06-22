@@ -21,7 +21,7 @@ function Home() {
 
               
               <TypeAnimation
-                sequence={['Pradeep Kumar']}
+                sequence={['Pradeep Suthar']}
                 wrapper="h2"
                 speed={50}
                 repeat={0} 
