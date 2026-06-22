@@ -34,7 +34,7 @@ function Contact() {
             <FaMapMarkerAlt className="text-emerald-600 text-2xl mt-1" />
             <div>
               <p className="font-semibold text-lg">Location</p>
-              <p className="text-base">Chandigarh, India</p>
+              <p className="text-base">Gujarat, India</p>
             </div>
           </div>
         </div>

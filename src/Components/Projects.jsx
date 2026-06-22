@@ -3,6 +3,33 @@ import { motion } from 'framer-motion';
 
 const projects = [
   {
+    title: 'Elementum Website',
+    description: 'Built a modern and responsive business website using React.js and Tailwind CSS with clean UI and mobile-friendly design.',
+    tech: ['React.js', 'Tailwind CSS', 'JavaScript'],
+    link: 'https://elementum-website.netlify.app/',
+  },
+  
+  {
+    title: 'Admin Dashboard',
+    description: 'Developed a responsive admin dashboard featuring analytics cards, charts, and modern dashboard layout using React.js.',
+    tech: ['React.js', 'Tailwind CSS', 'JavaScript'],
+    link: 'https://admin-dashboard-zeta-orpin-20.vercel.app/',
+  },
+  
+  {
+    title: 'CodeArena',
+    description: 'Created a developer-focused web application with modern UI components, responsive design, and interactive user experience.',
+    tech: ['React.js', 'Tailwind CSS', 'JavaScript'],
+    link: 'https://codearena-xi.vercel.app/',
+  },
+  
+  {
+    title: 'Personal Portfolio',
+    description: 'Designed and developed a personal portfolio website to showcase projects, skills, and contact information with a professional interface.',
+    tech: ['React.js', 'Tailwind CSS', 'JavaScript'],
+    link: 'https://my-portfolio-theta-woad.vercel.app/',
+  },
+  {
     title: 'FREE FUSION GYM',
     description: 'Created a MERN stack Gym Website with membership plans, workout schedules, and Gmail-integrated contact form.',
     tech: ['React.js', 'Express.js', 'MongoDB'],
@@ -14,12 +41,7 @@ const projects = [
     tech: ['React.js', 'Firebase', 'Tailwind CSS'],
     link: 'https://github.com/CoderPradeep307028/-Food-delivery-website.git',
   },
-  {
-    title: 'Notes Organizer',
-    description: 'Semester-wise notes manager for B.Tech students with login support.',
-    tech: ['MERN', 'JWT', 'Tailwind'],
-    link: '#',
-  }
+
 ];
 
 const fadeUp = {

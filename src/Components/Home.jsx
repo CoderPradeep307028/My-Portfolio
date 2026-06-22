@@ -35,7 +35,7 @@ function Home() {
           </div>
 
           <p className="text-lg text-gray-600">
-            Passionate about building clean and efficient web applications. Currently based in <span className="font-medium text-emerald-700">Banur ,Punjab, India</span>.
+            Passionate about building clean and efficient web applications. Currently based in <span className="font-medium text-emerald-700">Ahmedabad, Gujarat, India</span>.
           </p>
 
           <div className="flex justify-center md:justify-start gap-4 mt-4">
@@ -46,7 +46,7 @@ function Home() {
               Contact Me
             </a>
             <a
-              href="/RESUME.pdf"
+              href="/Pradeep_Suthar_Resume(1).pdf"
               download
               className="border-2 border-emerald-600 text-emerald-600 hover:bg-emerald-600 hover:text-white px-6 py-3 rounded-xl text-lg font-medium transition-all duration-300 shadow-md"
             >
