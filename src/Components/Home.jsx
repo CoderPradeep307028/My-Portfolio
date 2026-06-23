@@ -46,7 +46,7 @@ function Home() {
               Contact Me
             </a>
             <a
-              href="/Pradeep_Suthar_Resume(1).pdf"
+              href="/Pradeep.pdf"
               download
               className="border-2 border-emerald-600 text-emerald-600 hover:bg-emerald-600 hover:text-white px-6 py-3 rounded-xl text-lg font-medium transition-all duration-300 shadow-md"
             >
