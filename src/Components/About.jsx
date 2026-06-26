@@ -21,7 +21,7 @@ function About() {
           <p className="text-gray-700 text-lg leading-relaxed mb-6">
             Hi, I'm{' '}
             <span className="font-semibold text-emerald-600">Pradeep Kumar</span>,
-            a passionate web developer from Rajasthan. I specialize in building fast,
+            a passionate web developer from Gujarat. I specialize in building fast,
             responsive, and user-friendly websites using technologies like{' '}
             <span className="font-medium text-yellow-500">React.js</span>,{' '}
             <span className="font-medium text-yellow-500">Node.js, Express.js</span>, and{' '}
